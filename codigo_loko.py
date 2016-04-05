@@ -1,2 +1,2 @@
-print("olar")
+#print("olar")
 print("LOKO VEI")
