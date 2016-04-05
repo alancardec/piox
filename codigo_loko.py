@@ -1,3 +1,2 @@
-print("Git Bootcamp")
-
 print("olar")
+print("LOKO VEI")
